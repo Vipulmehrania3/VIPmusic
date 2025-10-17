@@ -1,0 +1,5 @@
+{
+  "name": "AI Music Generator",
+  "description": "Generate unique musical pieces by providing a genre and style. The AI will compose lyrics and a melody, which you can listen to directly in your browser.",
+  "requestFramePermissions": []
+}
